@@ -24,6 +24,7 @@ Buah yang berwarna merah saat muda siap dipanen ketika alur buah berwarna kekuni
 
 okeeee
 [Text](https://www.gohugo.io "Title")
+
 ![diagram alur pengolahan kelapa](https://4.bp.blogspot.com/-89RK3vsPeAw/V9FJ-fgPW5I/AAAAAAAADOY/D-R__QHvwzMdNNKsIaNkEU7rzT2hVep7gCK4B/s1600/API%2BSimsimi%2Bdan%2BBot%2BTelegram%2B-%2BPetani%2BKode.png)
 
 <!--more-->
