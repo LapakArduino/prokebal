@@ -7,7 +7,7 @@ Author = "Mas Eko"
 #themesDir = "themes"
 
 MetaDataFormat = "yaml"
-theme = "bumbu-template"
+theme = "temaku"
 
 
 # Disqus shortcode
